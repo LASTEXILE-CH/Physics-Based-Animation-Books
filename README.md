@@ -1,6 +1,24 @@
-基于物理的动画相关书籍相比图形渲染来说不是很多，本人收集了一部分，有需要的可以去github下载。
+有关游戏当中的物理相关书籍。
 
-https://github.com/yang-shuohao/Physics-based-animation.git
+## 在一个周末的游戏物理（Game Physics In One Weekend）
+
+![img](https://pic2.zhimg.com/80/v2-adb19815d8aefb4dda17cb188028e736_720w.jpeg)
+
+
+
+## 下一周的游戏物理学（Game Physics The Next Week）
+
+![img](https://pic2.zhimg.com/80/v2-f96b95507fdee4f055afa28c5b95853a_720w.jpeg)
+
+
+
+## 游戏物理学的余生（Game Physics The Rest of Your Life）
+
+![img](https://pic2.zhimg.com/80/v2-d1dd41459304d02ebc392eb69f01316b_720w.jpeg)
+
+
+
+
 
 ## 计算机图形的流体模拟（第二版）（Fluid Simulation for Computer Graphics (2nd Edition)）
 
